@@ -6,7 +6,7 @@ A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 
 
 
-[Click here to play](https://aaronuae86.github.io/TicTacToe/)
+[CLICK HERE TO PLAY](https://aaronuae86.github.io/TicTacToe/)
 
 📌 Features
 
