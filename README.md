@@ -4,7 +4,9 @@ A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 
 🎮 Live Demo
 
-[Click here to play]([https://github.com/Aaronuae86/TicTacToe/new/main?filename=README.md](https://aaronuae86.github.io/TicTacToe/)) 
+
+
+Click here to play (Replace with your live deployment link)
 
 📌 Features
 
